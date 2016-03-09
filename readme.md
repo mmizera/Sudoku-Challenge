@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+![](https://raw.githubusercontent.com/mmizera/Sudoku-Challenge/master/201405_0002_aghcf_sm.jpg)
+
 It challenge : write your original algorithm for **generating** valid random 9x9 sudoku grid - required assumption is you do not know algorithm how to do this, only 3 rules, which are aplied to sudoku grid.
 
 - sudoku generator works 100%
@@ -10,10 +12,3 @@ Also this description is too short, so I'm adding some lipsum, here Lorem ipsum 
 
 Maecenas tincidunt quam sit amet velit tristique varius. Quisque malesuada dignissim sem vel vestibulum. Aenean iaculis felis sed tortor egestas, id sagittis turpis euismod. Proin egestas tortor et aliquet bibendum. Nunc vulputate magna sed enim auctor condimentum. Nam ultrices magna nisi. Suspendisse pellentesque hendrerit ante, ut sagittis leo dictum sit amet. Nunc ut euismod nisl. Nunc tincidunt neque ac ipsum tristique, euismod sodales dui vestibulum. Donec quis neque pretium augue varius dapibus. Aliquam finibus ac purus eu auctor. Sed in sapien viverra, congue nunc in, finibus ante.
 
-Pellentesque mollis eros ante, vel hendrerit massa porta a. Quisque id arcu nec odio blandit scelerisque non sit amet ipsum. Ut faucibus pharetra ullamcorper. Nunc sit amet massa a orci dapibus aliquam. Maecenas ex nulla, egestas ut porttitor vel, auctor nec augue. Suspendisse aliquam ante in justo rutrum fermentum. Integer pulvinar tortor quis sodales vehicula. In purus dolor, efficitur ac ligula vitae, laoreet faucibus arcu.
-
-Curabitur in turpis sollicitudin, scelerisque erat aliquam, vestibulum ipsum. Aenean ex risus, fringilla eu vestibulum eget, ultricies vel libero. Mauris a rhoncus metus, nec luctus lorem. Ut porta arcu in convallis accumsan. Curabitur rutrum lorem vel ligula pretium, et finibus arcu varius. Cras pharetra in elit ac venenatis. Integer porta lacus vitae finibus fringilla. Donec orci odio, iaculis id sollicitudin vel, luctus at nulla. Quisque volutpat fringilla mi, sit amet molestie felis lacinia in. Aenean viverra aliquam velit vel vestibulum. Ut hendrerit ac neque a molestie. Etiam imperdiet nec turpis non gravida. Maecenas in interdum est, eu pharetra neque. Aliquam mollis quam a dui auctor varius.
-
-Curabitur est metus, iaculis consequat libero sit amet, rhoncus fermentum nisi. Aenean dictum neque accumsan iaculis volutpat. In condimentum consequat mi ut mollis. Curabitur sed viverra magna, ut vestibulum ante. Praesent nec ipsum ornare, malesuada urna eget, venenatis lacus. Curabitur pellentesque ipsum erat. Morbi lobortis libero augue, sed ornare nunc tempus at. Pellentesque aliquet ornare lacus, eu porttitor nisi sollicitudin sit amet. Aliquam molestie consequat felis, quis sollicitudin quam vulputate non. Nulla tincidunt volutpat auctor. Pellentesque sit amet hendrerit lacus. Sed efficitur elit eu risus consectetur, ac auctor turpis finibus. Quisque eget nisl posuere tellus egestas dictum ac sed risus. Praesent suscipit dolor augue, quis auctor dolor faucibus et. Nullam euismod magna ac ante lobortis pharetra.
-
-Vygenerovaných bolo 5 odstavcov, 475 slov, 3262 
