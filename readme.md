@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Generator
 
 > It challenge : write your original algorithm for **generating** valid random 9x9 sudoku grid - required assumption is you do not know 
 > algorithm how to do this, only 3 rules, which are aplied to sudoku grid.
